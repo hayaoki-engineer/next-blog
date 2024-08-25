@@ -14,9 +14,9 @@ const Article = async ({ params }: { params: { id: string } }) => {
               width={1280}
               height={300}
             /> */}
-      <h1 className='text-4xl text-center mb-10 mt-10'>ここがタイトルです。</h1>
+      <h1 className='text-4xl text-center mb-10 mt-10'>{detailArticle.title}</h1>
       <div className='text-lg leading-relaxed text-justify'>
-        <p>ここが本文です。</p>
+        <p>{detailArticle.content}</p>
       </div>
     </div>
   );
