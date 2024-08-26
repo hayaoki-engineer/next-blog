@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": "next.js13-udemy",
-      "title": "Next.js13をUdemyで学ぶ",
-      "content": "shincodeさんの教材でNext.js13を学んでいます",
-      "createdAt": "2022/07/14"
-    },
-    {
       "id": "json-server",
       "title": "JSONサーバー",
       "content": "shincodeさんの教材でNext.js13を学んでいますshincodeさんの教材でNext.js13を学んでいますshincodeさんの教材でNext.js13を学んでいます",
@@ -17,18 +11,6 @@
       "title": "wow",
       "content": "wow",
       "createdAt": "2024-08-26T20:28:37.644Z"
-    },
-    {
-      "id": "test",
-      "title": "test",
-      "content": "test",
-      "createdAt": "2024-08-26T20:38:33.194Z"
-    },
-    {
-      "id": "w",
-      "title": "w",
-      "content": "w",
-      "createdAt": "2024-08-26T20:43:25.119Z"
     }
   ]
 }
